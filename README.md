@@ -1,4 +1,4 @@
-# WebSandbox Public Tracker
+# WebSandbox Community
 
 This repository serves as a central hub for the GitHub issues, feature requests, and bug reports related to WebSandbox for easier tracking and communication.
 
@@ -6,8 +6,8 @@ For documentation, visit [websandbox.online/docs](https://websandbox.online/docs
 
 ## Reach Out
 
-- Chat with our team on [Discord](#)
-- For Enterprise inquiries, visit [Enterprise](#)
+- Chat with our community in GitHub Discussions
+- For Enterprise inquiries, contact us at [contact@websandbox.online](mailto:contact@websandbox.online)
 
 ## Changelog
 
