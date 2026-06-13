@@ -17,17 +17,17 @@ body:
               - ❓ If you need help rather than reporting a bug, consider opening a discussion.
               - 📌 Be as specific as possible and include reproduction steps and environment details.
 
-    - type: input
+    - type: textarea
       id: platform
       attributes:
           label: "📌 Environment Information"
           description: "Provide details about your environment:"
           placeholder: |
-    - WebSandbox version (commit/tag):
-          - Node.js version:
-          - Browser and version:
-          - Database:
-          - OS and version:
+              - WebSandbox version (commit/tag):
+              - Node.js version:
+              - Browser and version:
+              - Database:
+              - OS and version:
       validations:
           required: true
 
