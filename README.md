@@ -1,30 +1,25 @@
-<div align="center">
-  <img width="80" src="logo.png" alt="WebSandbox Logo" />
-  <h1>WebSandbox Community</h1>
-  <p><strong>Central hub for issues, feature requests, and bug reports.</strong></p>
-</div>
+<br />
+<p align="center">
+  <img src="logo.png" alt="WebSandbox Logo" width="100" />
+</p>
+<h1 align="center">WebSandbox Community</h1>
+<br />
 
----
+This repository serves as a central hub for the GitHub issues, feature requests, and bug reports related to **WebSandbox** for easier tracking and communication.
 
-This repository serves as a central hub for the GitHub issues, feature requests, and bug reports related to **WebSandbox** for easier tracking and communication. We build in public and value our community's feedback.
+For documentation, visit [websandbox.online/docs](https://websandbox.online/docs) where you'll find detailed information about WebSandbox and its API.
 
-### 📚 Documentation
+## Learn more
 
-For complete API references, guides, and tutorials, visit [websandbox.online/docs](https://websandbox.online/docs).
+- [WebSandbox Documentation](https://websandbox.online/docs)
+- [Minimal Reproducible Example Guide](repro.md)
+- [System Status](https://status.websandbox.online)
 
-### 🐞 Bug Reports & Reproductions
+## Reach out
 
-Before filing a bug, please ensure you can reproduce it. We highly recommend reading our **[Minimal Reproducible Example Guide](repro.md)** to help us solve your issue as fast as possible.
+- Chat with our community in [GitHub Discussions](https://github.com/5-dev/WebSandbox/discussions)
+- For Enterprise inquiries, contact us at [contact@websandbox.online](mailto:contact@websandbox.online)
 
-### 🚀 Feature Requests
-
-Have a great idea for WebSandbox? We prioritize what the community wants most. Please search existing feature requests before opening a new one.
-
-### 💬 Reach Out
-
-- Chat with our community in **[GitHub Discussions](https://github.com/5-dev/WebSandbox/discussions)**
-- For Enterprise inquiries, contact us at **[contact@websandbox.online](mailto:contact@websandbox.online)**
-
-### 📝 Changelog
+## Changelog
 
 The changelog is made available in our [documentation](https://websandbox.online/changelog).
