@@ -1,9 +1,8 @@
-<br />
-<p align="center">
-  <img src="logo.png" alt="WebSandbox Logo" width="100" />
-</p>
-<h1 align="center">WebSandbox Community</h1>
-<br />
+<div align="center">
+  <img width="70" src="logo.png" alt="WebSandbox Logo" />
+  <h1>WebSandbox</h1>
+  <p><strong>Cloud IDE & Containerized Workspace Platform</strong></p>
+</div>
 
 This repository serves as a central hub for the GitHub issues, feature requests, and bug reports related to **WebSandbox** for easier tracking and communication.
 
